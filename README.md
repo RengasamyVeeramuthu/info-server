@@ -6,7 +6,7 @@ Userinfo tool is the detailed User Information for SAP IT where it searches the 
 # Packaging and deployment
 The Corporate network blocks access to external module managers.
 Installation only works on SAP-Internet, SAP-Guest, or other external internet.
-# Runnning the tests
+# Runnning the test
 
 # Versioning 
 * UserInfo tool v6.1
